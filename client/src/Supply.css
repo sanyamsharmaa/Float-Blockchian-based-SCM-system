@@ -1,0 +1,62 @@
+.page {
+  background-image: url(C:\Users\HP\Downloads\Supply-Chain-Blockchain-master\Supply-Chain-Blockchain-master\client\src\Assets\SPPhoto.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: calc(0.7);
+  font-weight: bold;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: aliceblue;
+  padding: 30px 0 0 10px;
+}
+.content {
+  backdrop-filter: blur(2px);
+  /* background-color: blue; */
+}
+.account_address {
+  margin: 0px 0 10px 10px;
+  font-size: 140%;
+  background-color: rgba(0, 0, 0, 0.484);
+}
+
+.page p {
+  font-size: 120%;
+}
+
+.steps {
+  display: block;
+  padding-left: 2%;
+  font-weight: bold;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: aliceblue;
+}
+
+.homebutton {
+  position: absolute;
+  width: 80px;
+  right: 15px;
+  top: 20px;
+  font-weight: 800;
+
+  font-size: 150%;
+}
+
+.assignroles,
+.addorder,
+.Track {
+  background-image: url("C:\Users\HP\Downloads\Supply-Chain-Blockchain-master\Supply-Chain-Blockchain-master\bg11.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  padding: 20px 0 0 10px;
+  backdrop-filter: blur(2px);
+  background-attachment: fixed;
+}
+tr {
+  color: white;
+}
+.addorder,
+.Track {
+  height: 100vh;
+}
